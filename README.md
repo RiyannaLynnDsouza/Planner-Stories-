@@ -1,4 +1,4 @@
-# planner-stories-clone
+# planner-stories
 Planning can make one’s life a lot less stressful knowing what to expect from  the day ahead of you and having an action plan to go through it all considerably reduces the amount
 of stress for the next day.
 
@@ -27,5 +27,8 @@ BACKGROUND API
 QUOTES   API
 WEATHER  API
 LOCATION API
+
+
+ Figma Design:https://www.figma.com/proto/FIgn5vxp566Uedb59SeaWf?node-id=0-1&t=MRdxR6FA9dB9ZCzu-6
 
 
